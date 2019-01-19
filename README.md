@@ -14,5 +14,7 @@ Upload your pdf files to the github repository in your convinient way. For examp
 #### Edit the settings
 Edit the settings of your repository. For the "GitHub Pages" term, select the source with "master branch" or "gh-pages branch" then save.
 #### Share the links
-The link of your file in the form of "https:// YourAccountName.github.io/ +RepoName+FileName ". For instance, the "test.pdf" that I uploaded in the first step has the link ""
+The link of your file in the form of "https:// YourAccountName.github.io/ +RepoName+FileName ". For instance, the "test.pdf" that I uploaded in the first step has the link "https://mahsh.github.io/DisplayPDF/test.pdf".
+
+Enjoy it!
 
