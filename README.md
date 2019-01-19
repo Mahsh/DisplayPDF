@@ -1,6 +1,6 @@
 # DisplayPDF
 
-This repository instructs you how to display your pdf file in github.
+This repository instructs you how to display your pdf file in github. [Like this](https://mahsh.github.io/DisplayPDF/test.pdf)
 
 All the things can be done with the help of [GitHub Pages](https://pages.github.com/).
 
